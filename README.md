@@ -11,7 +11,7 @@
 [String coder](01_fundamentals/exc_03_string_coder.py)
  / [Tests](01_fundamentals/test_exc_03_string_coder.py)
 
- ## Python Essential training
+ ## 2 - Python Essential training
 
  [Challenge - factorial calculation](02_Essential_training/exc_02_07_factorial.py)
   / [Tests](02_Essential_training/test_02_07_factorial.py)
