@@ -18,3 +18,6 @@
 
   [Challenge - hex to decimal coversion](02_Essential_training/chal_03_06_hex2deci.py)
    / [Tests](02_Essential_training/test_chal_03_06_hex2deci.py)
+
+[Challenge - ASCII Art](02_Essential_training/chal_04_07_ASCII_art.py)
+ / [Tests](02_Essential_training/test_chal_04_07_ASCII_art.py)
