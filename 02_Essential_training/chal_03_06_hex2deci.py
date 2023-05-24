@@ -30,12 +30,12 @@ hexNumbers = {
 def hexToDec(hexNum):
     decimalResult = None
     if type(hexNum) is str:
-        hexIndex = len(hexNum) - 1
+        hexPower = len(hexNum) - 1
         decimalResult = 0
         for char in hexNum:
             if char.upper() in hexNumbers:
-                decimalResult += (16 ** hexIndex) * hexNumbers[char.upper()]
-                hexIndex -= 1
+                decimalResult += (16 ** hexPower) * hexNumbers[char.upper()]
+                hexPower -= 1
             else:
                 decimalResult = None
                 break
