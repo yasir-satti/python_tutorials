@@ -15,3 +15,6 @@
 
  [Challenge - factorial calculation](02_Essential_training/exc_02_07_factorial.py)
   / [Tests](02_Essential_training/test_02_07_factorial.py)
+
+  [Challenge - hex to decimal coversion](02_Essential_training/chal_03_06_hex2deci.py)
+   / [Tests](02_Essential_training/test_chal_03_06_hex2deci.py)
