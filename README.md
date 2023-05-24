@@ -21,3 +21,6 @@
 
 [Challenge - ASCII Art](02_Essential_training/chal_04_07_ASCII_art.py)
  / [Tests](02_Essential_training/test_chal_04_07_ASCII_art.py)
+
+ [Challenge - fast prime numbers](02_Essential_training/chal_05_04_fast_prime.py)
+  / [Tests](02_Essential_training/test_chal_05_04_fast_prime.py)
