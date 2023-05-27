@@ -24,3 +24,6 @@
 
  [Challenge - fast prime numbers](02_Essential_training/chal_05_04_fast_prime.py)
   / [Tests](02_Essential_training/test_chal_05_04_fast_prime.py)
+
+ [Challenge - can you hear me now](02_Essential_training/chal_06_04_retryGotData.py)
+  / [Tests](02_Essential_training/test_chal_06_04_retryGotData.py)
