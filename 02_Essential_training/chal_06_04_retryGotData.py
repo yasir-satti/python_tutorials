@@ -1,3 +1,18 @@
+# Can You Hear Me Now?
+#
+# Create a function "getWithRetry" that calls a function until it receives 
+# response that is not None, and then returns that response. If it continues 
+# to get no response, it should give up after a certain number of tries (to be decided by you)
+
+# After filling out the "getWithRetry" function, run all of the cells in this 
+# notebook in order to test the following scenarios:
+
+# All services are up
+# All services are down
+# All services are down and making a request takes 0.1 seconds to execute
+# What is the ideal number of retries before giving up? How do you know whether 
+# the service is down or you're just unlucky?
+
 import random
 
 servicesAreUp = False
