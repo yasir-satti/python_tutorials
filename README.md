@@ -27,3 +27,6 @@
 
  [Challenge - can you hear me now](02_Essential_training/chal_06_04_retryGotData.py)
   / [Tests](02_Essential_training/test_chal_06_04_retryGotData.py)
+
+ [Challenge - Extending Messanger](02_Essential_training/chal_07_04_Extending_Messenger.py)
+  / [Tests](02_Essential_training/test_chal_07_04_Extending_Messenger.py)
