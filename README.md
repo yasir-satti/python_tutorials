@@ -31,5 +31,5 @@
  [Challenge - Extending Messanger](02_Essential_training/chal_07_04_Extending_Messenger.py)
   / [Tests](02_Essential_training/test_chal_07_04_Extending_Messenger.py)
 
- [Challenge - Message Excpetion handling](02_Essential_training/test_chal_08_04_Message_Exceptions.py)
-  / [Tests](02_Essential_training/test_test_chal_08_04_Message_Exceptions.py)
+ [Challenge - Message Excpetion handling](02_Essential_training/chal_08_04_Message_Exceptions.py)
+  / [Tests](02_Essential_training/test_chal_08_04_Message_Exceptions.py)
