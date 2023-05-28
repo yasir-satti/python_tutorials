@@ -37,16 +37,16 @@
  [Challenge - File ecnoding and comnpression](02_Essential_training/chal_10_04_encode_decode_files.py)
 
 
- ## Python intermediate level
+ ## 3 - Python intermediate level
 
- ### [1 - Functional Programming with Python](https://www.linkedin.com/learning/functional-programming-with-python/a-functional-approach-to-transform-code?autoplay=true&u=2201753)
+ ### [a - Functional Programming with Python](https://www.linkedin.com/learning/functional-programming-with-python/a-functional-approach-to-transform-code?autoplay=true&u=2201753)
 
- ### [2 - Python Object-Oriented Programming](https://www.linkedin.com/learning/python-object-oriented-programming/python-object-oriented-programming?autoplay=true&u=2201753)
+ ### [b - Python Object-Oriented Programming](https://www.linkedin.com/learning/python-object-oriented-programming/python-object-oriented-programming?autoplay=true&u=2201753)
 
- ## Routes to Specialism with Python
+ ## 4 - Routes to Specialism with Python
 
- ### [1 - Web development - Django Essential Training](https://www.linkedin.com/learning/django-essential-training/what-is-django?autoplay=true&u=2201753)
+ ### [a - Web development - Django Essential Training](https://www.linkedin.com/learning/django-essential-training/what-is-django?autoplay=true&u=2201753)
 
- ### [2 - API Development - Building RESTful APIs with Flask](https://www.linkedin.com/learning/building-restful-apis-with-flask/restful-apis-with-python-3-and-flask-4?autoplay=true&u=2201753)
+ ### [b - API Development - Building RESTful APIs with Flask](https://www.linkedin.com/learning/building-restful-apis-with-flask/restful-apis-with-python-3-and-flask-4?autoplay=true&u=2201753)
 
- ### [3 - Data Analysis - Python Data Analysis](https://www.linkedin.com/learning/python-data-analysis-2/get-started-in-data-analysis-with-python?autoplay=true&u=2201753)
+ ### [c - Data Analysis - Python Data Analysis](https://www.linkedin.com/learning/python-data-analysis-2/get-started-in-data-analysis-with-python?autoplay=true&u=2201753)
