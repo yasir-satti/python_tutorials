@@ -33,3 +33,5 @@
 
  [Challenge - Message Excpetion handling](02_Essential_training/chal_08_04_Message_Exceptions.py)
   / [Tests](02_Essential_training/test_chal_08_04_Message_Exceptions.py)
+
+ [Challenge - Message Excpetion handling](02_Essential_training/chal_10_04_encode_decode_files.py)
