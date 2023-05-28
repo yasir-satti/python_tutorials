@@ -43,7 +43,7 @@
 
  ### [2 - Python Object-Oriented Programming](https://www.linkedin.com/learning/python-object-oriented-programming/python-object-oriented-programming?autoplay=true&u=2201753)
 
- ## [Routes to Specialism with Python]
+ ## Routes to Specialism with Python
 
  ### [1 - Web development - Django Essential Training](https://www.linkedin.com/learning/django-essential-training/what-is-django?autoplay=true&u=2201753)
 
