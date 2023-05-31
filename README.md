@@ -11,7 +11,7 @@
 [String coder](01_fundamentals/exc_03_string_coder.py)
  / [Tests](01_fundamentals/test_exc_03_string_coder.py)
 
- ## 2 - [Python Essential training](https://www.linkedin.com/learning/python-essential-training-18764650/getting-started-with-python?autoplay=true&u=2201753)
+ ## 2 - [Python Essentials](https://www.linkedin.com/learning/python-essential-training-18764650/getting-started-with-python?autoplay=true&u=2201753)
 
  [Challenge - factorial calculation](02_Essential_training/exc_02_07_factorial.py)
   / [Tests](02_Essential_training/test_02_07_factorial.py)
@@ -35,6 +35,9 @@
   / [Tests](02_Essential_training/test_chal_08_04_Message_Exceptions.py)
 
  [Challenge - File ecnoding and comnpression](02_Essential_training/chal_10_04_encode_decode_files.py)
+
+ [Project - Game - rock, paper, scissors](02_Essential_training/chal_project.py)
+  / [Tests](02_Essential_training/test_chal_project.py)
 
 
  ## 3 - Python intermediate level
