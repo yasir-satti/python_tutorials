@@ -55,21 +55,24 @@ def getCPUInput():
 
 
 def whoIsWinner(userChoice, cpuChoice):
-    # Rock smashes scissors.
-    # Paper covers rock.
-    # Scissors cut paper.
     winner = 'no winner'
-    if (userChoice == ROCK) and (cpuChoice == SCISSORS):
+    userROCKcpuSCISSORS = (userChoice == ROCK) and (cpuChoice == SCISSORS)
+    userPAPERcpuROCK = (userChoice == PAPER) and (cpuChoice == ROCK)
+    userSCISSORScpuPAPER = (userChoice == SCISSORS) and (cpuChoice == PAPER)
+    cpuROCKuserSCISSORS = (cpuChoice == ROCK) and (userChoice == SCISSORS)
+    cpuPAPERuserROCK = (cpuChoice == PAPER) and (userChoice == ROCK)
+    cpuSCISSORSuserPAPER = (cpuChoice == SCISSORS) and (userChoice == PAPER)
+    if userROCKcpuSCISSORS:
          winner = 'user is the winner !'
-    elif (userChoice == PAPER) and (cpuChoice == ROCK):
+    elif userPAPERcpuROCK:
          winner = 'user is the winner !'
-    elif (userChoice == SCISSORS) and (cpuChoice == PAPER):
+    elif userSCISSORScpuPAPER:
          winner == 'user is the winner !'
-    if (cpuChoice == ROCK) and (userChoice == SCISSORS):
+    if cpuROCKuserSCISSORS:
          winner = 'cpu is the winner !'
-    elif (cpuChoice == PAPER) and (userChoice == ROCK):
+    elif cpuPAPERuserROCK:
          winner = 'cpu is the winner !'
-    elif (cpuChoice == SCISSORS) and (userChoice == PAPER):
+    elif cpuSCISSORSuserPAPER:
          winner == 'cpu is the winner !'
     return winner
 
