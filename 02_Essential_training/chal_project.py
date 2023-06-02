@@ -24,27 +24,18 @@ PAPER = 2
 SCISSORS = 3
 
 
-def playGame():
-
-    userInput = getUserInput()
-    usercChoice = getSelection(userInput)
-    cpuInput = getCPUInput()
-    cpuChoice = getSelection(cpuInput)
-    winner = whoIsWinner(usercChoice, cpuChoice)
-    print(winner)
-
-
 def getUserInput():
-        choices = """
-        Please select one of the following by typing a number:
+     choices = """
+     Please select one of the following by typing a number:
 
-        1. Rock
-        2. Paper
-        3. Scissors
-        """
-        print(choices)
-        userInput = int(input())
-        return userInput
+     1. Rock
+     2. Paper
+     3. Scissors
+     """
+     print(choices)
+     userInput = int(input())
+     print('user choice ', userInput)
+     return userInput
 
 
 def getSelection(input):
@@ -69,18 +60,28 @@ def whoIsWinner(userChoice, cpuChoice):
     # Scissors cut paper.
     winner = 'no winner'
     if (userChoice == ROCK) and (cpuChoice == SCISSORS):
-         winner = 'user'
+         winner = 'user is the winner !'
     elif (userChoice == PAPER) and (cpuChoice == ROCK):
-         winner = 'user'
+         winner = 'user is the winner !'
     elif (userChoice == SCISSORS) and (cpuChoice == PAPER):
-         winner == 'user'
+         winner == 'user is the winner !'
     if (cpuChoice == ROCK) and (userChoice == SCISSORS):
-         winner = 'cpu'
+         winner = 'cpu is the winner !'
     elif (cpuChoice == PAPER) and (userChoice == ROCK):
-         winner = 'cpu'
+         winner = 'cpu is the winner !'
     elif (cpuChoice == SCISSORS) and (userChoice == PAPER):
-         winner == 'cpu'
+         winner == 'cpu is the winner !'
     return winner
+
+
+def playGame():
+
+    userInput = getUserInput()
+    usercChoice = getSelection(userInput)
+    cpuInput = getCPUInput()
+    cpuChoice = getSelection(cpuInput)
+    winner = whoIsWinner(usercChoice, cpuChoice)
+    print(winner)
 
 
 playGame()
