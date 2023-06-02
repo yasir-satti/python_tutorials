@@ -36,8 +36,11 @@
 
  [Challenge - File ecnoding and comnpression](02_Essential_training/chal_10_04_encode_decode_files.py)
 
- [Project - Game - rock, paper, scissors](02_Essential_training/chal_project.py)
+ [Python bigenner - Project - Game - rock, paper, scissors](02_Essential_training/chal_project.py)
   / [Tests](02_Essential_training/test_chal_project.py)
+
+[Python bigenner - Instance attributes - Game - rock, paper, scissorsCreate full name and email](02_Essential_training/chal_py_beginner_instance_attributes.py)
+  / [Tests](02_Essential_training/test_chal_py_beginner_instance_attributes.py)
 
 
  ## 3 - Python intermediate level
