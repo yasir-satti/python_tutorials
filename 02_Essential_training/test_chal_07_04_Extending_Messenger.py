@@ -26,11 +26,12 @@ def test_send_one_message_with_timestamp():
     
 def test_print_one_message_with_timestamp():
     message = 'one message!'
-    expectePrintedMessage = 'Hello, there! This is the first message" Time: "05-27-2023 19:28:47'   
-    capturedOutputString = StringIO()
-    redirect_stdout(capturedOutputString)
+    expectePrintedMessage = 'one message!'
     listener = chal_07_04_Extending_Messenger.SaveMessages()
     sender = chal_07_04_Extending_Messenger.Messenger([listener])
     sender.send(message)
-    listener.printMessages()
-    assert capturedOutputString.getvalue() == expectePrintedMessage
+    with redirect_stdout(StringIO()) as stdoutString:
+        listener.printMessages()
+    capturedOutputString = stdoutString.getvalue() 
+    messageIndex = capturedOutputString.find(message)
+    assert capturedOutputString[messageIndex:messageIndex + len(message)] == expectePrintedMessage

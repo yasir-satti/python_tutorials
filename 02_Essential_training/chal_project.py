@@ -38,10 +38,10 @@ def getUserInput():
      return userInput
 
 
-def getSelection(input):
-    if input == 1:
+def getSelection(selectionInput):
+    if selectionInput == 1:
         choice = ROCK
-    elif input == 2:
+    elif selectionInput == 2:
         choice = PAPER
     else:
          choice = SCISSORS
@@ -84,4 +84,4 @@ def playGame():
     print(winner)
 
 
-playGame()
+# playGame()
