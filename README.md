@@ -50,29 +50,31 @@
 
 #### Introductory functional concepts:
 - Goal of functional programming
-Declarative versus Imperative programming
+- Declarative versus Imperative programming
 
 #### Functional concepts:
-Immutability
-Separation of data and functions
+Immutability / 
+Separation of data and functions / 
 First-class functions
-First-class functions:
-Functions as data ( part 1 )
-Functions as data ( part 2 )
-Passing functions as arguments
-Returning functions from other functions
-Closure
+
+#### First-class functions:
+Functions as data ( part 1 ) / 
+Functions as data ( part 2 ) / 
+Passing functions as arguments / 
+Returning functions from other functions / 
+Closure / 
 Higher-order functions
 
 #### Python: The functional parts
-Mapping
-Filtering
-Lambdas
-List comprehensions
-Reducing
-Combining list functions
-Advanced functional concepts
-Partial application and currying
+Mapping / 
+Filtering / 
+Lambdas / 
+List comprehensions / 
+Reducing / 
+Combining list functions / 
+
+#### Advanced functional concepts
+Partial application and currying / 
 Recursion
 
 
