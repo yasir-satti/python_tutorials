@@ -40,11 +40,8 @@ def getSalary(employee):
     return employee['salary']
 
 
-developers = [employee for employee in employees if isDeveloper(employee)]
-nonDevelopers = [employee for employee in employees if isNotDeveloper(employee)]
-
-developerSalaries = [getSalary(employee) for employee in developers ]
-nonDeveloperSalaries = [getSalary(employee) for employee in nonDevelopers ]
+developerSalaries = [getSalary(employee) for employee in employees if isDeveloper(employee)]
+nonDeveloperSalaries = [getSalary(employee) for employee in employees if isNotDeveloper(employee)]
 
 
 def get_sum(acc, x):
