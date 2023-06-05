@@ -47,6 +47,36 @@
 
  ### [a - Functional Programming with Python](https://www.linkedin.com/learning/functional-programming-with-python/a-functional-approach-to-transform-code?autoplay=true&u=2201753)
 
+
+#### Introductory functional concepts:
+- Goal of functional programming
+Declarative versus Imperative programming
+
+#### Functional concepts:
+Immutability
+Separation of data and functions
+First-class functions
+First-class functions:
+Functions as data ( part 1 )
+Functions as data ( part 2 )
+Passing functions as arguments
+Returning functions from other functions
+Closure
+Higher-order functions
+
+#### Python: The functional parts
+Mapping
+Filtering
+Lambdas
+List comprehensions
+Reducing
+Combining list functions
+Advanced functional concepts
+Partial application and currying
+Recursion
+
+
+#### Challenge
  [Challenge - Calculate average salary](03_intermmediate_functional/chal_03_func_list_comperhensions.py) / [Tests](03_intermmediate_functional/test_chal_03_func_list_comperhensions.py)
 
  ### [b - Python Object-Oriented Programming](https://www.linkedin.com/learning/python-object-oriented-programming/python-object-oriented-programming?autoplay=true&u=2201753)
