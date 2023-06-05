@@ -13,6 +13,32 @@
 
  ## 2 - [Python Essentials](https://www.linkedin.com/learning/python-essential-training-18764650/getting-started-with-python?autoplay=true&u=2201753)
 
+
+
+- Variables and types
+- Data structures ( lists / sets / tuples / dictionaries )
+- Operators ( arithmetic operators / arithmetic operators with strings / comparison operators / logical operators / membership operators
+- Control flow ( if-else / for loop / while loop )
+- Functions 
+- Classes and objects
+- Basic data types ( ints and floats / booleans / strings / bytes )
+- Basic data structures ( Lists / Tuples and sets / dictionaries / list comprehensions / dictionary comprehensions )
+- Control flow
+
+- Function: 
+  - Anatomy of functions:  named parameters / *args / **kwargs )
+  - Variables and scope
+  - Functions as variables
+  - Lambda functions
+
+- Classes and Objects ( anatomy of classes / static & instance methods / inheritance )
+- Errors ( handling exceptions / custom exceptions )
+- Threads and Processes ( Threading / Multiprocess ) example
+- Working with files ( opening / reading / writing / csv / json )
+- Packaging Python ( command line arguments / creating modules and packages )
+
+
+
  [Challenge - factorial calculation](02_Essential_training/exc_02_07_factorial.py)
   / [Tests](02_Essential_training/test_02_07_factorial.py)
 
