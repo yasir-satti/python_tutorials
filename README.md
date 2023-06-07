@@ -105,7 +105,7 @@ Recursion
 
 
 #### Challenge
- [Challenge - Calculate average salary](03_intermmediate_functional/chal_03_func_list_comperhensions.py) / [Tests](03_intermmediate_functional/test_chal_03_func_list_comperhensions.py)
+ [Challenge - Calculate average salary](03_intermmediate/functional/chal_03_func_list_comperhensions.py) / [Tests](03_intermmediate/functional/test_chal_03_func_list_comperhensions.py)
 
  ### [b - Python Object-Oriented Programming](https://www.linkedin.com/learning/python-object-oriented-programming/python-object-oriented-programming?autoplay=true&u=2201753)
 
