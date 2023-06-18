@@ -115,4 +115,7 @@ Recursion
 
  ### [b - API Development - Building RESTful APIs with Flask](https://www.linkedin.com/learning/building-restful-apis-with-flask/restful-apis-with-python-3-and-flask-4?autoplay=true&u=2201753)
 
+ [Planetari API source](04_1_Building_RestFUL_APIs_Flask/Planetary-api/src/app.py)
+  / [Tests](04_1_Building_RestFUL_APIs_Flask/Planetary-api/tests/test_request.py)
+
  ### [c - Data Analysis - Python Data Analysis](https://www.linkedin.com/learning/python-data-analysis-2/get-started-in-data-analysis-with-python?autoplay=true&u=2201753)
