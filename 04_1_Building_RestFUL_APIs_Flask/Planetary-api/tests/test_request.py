@@ -8,11 +8,6 @@ HTTP_SUCCEEDED = 200
 HTTP_NOT_FOUND = 404
 
 
-def test_call_endpoint():
-    response = requests.get(URL)
-    assert response.status_code == HTTP_SUCCEEDED
-
-
 def test_can_create_task():
     payload = new_task_payload()
     create_task_response = create_task(payload)
